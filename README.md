@@ -25,7 +25,7 @@ Dataset :- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tu
 This project applies **unsupervised machine learning techniques**—K-Means and Hierarchical Clustering—to segment retail store customers based on their **purchase history** and **spending patterns**. The goal is to identify customer groups for **targeted marketing**, **loyalty programs**, and **business strategy optimization**.
 
 
-🧠 Prodigy ML Task 3-classification of cats and dogs using svm
+## 🧠 Prodigy ML Task 3-classification of cats and dogs using svm
 Dataset :- https://www.kaggle.com/c/dogs-vs-cats/data
 Description: The dataset contains 25,000 images of dogs and cats labeled as dog or cat.
 # 🐶🐱 Cat vs Dog Image Classification using SVM
@@ -58,7 +58,7 @@ Install all dependencies with:
 pip install -r requirements.txt
 
 ```
-# ✋ Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems
+## 🧠 Prodigy ML Task 4: ✋ Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems
 
 ## 📂 Overview
 
