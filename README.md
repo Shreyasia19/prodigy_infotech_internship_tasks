@@ -53,6 +53,40 @@ Install all dependencies with:
 ```bash
 pip install -r requirements.txt
 
+```
+# ✋ Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems
+
+## 📂 Overview
+
+This project focuses on developing a **Convolutional Neural Network (CNN)** model to accurately recognize and classify different **hand gestures** from images. It enables intuitive **human-computer interaction** and can serve as a foundational model for **gesture-based control systems**.
+
+The model achieves an impressive **accuracy of 97.97%** on the test data, showing high potential for real-world applications such as virtual input systems, sign language translation, and touchless control interfaces.
+Dataset :-  https://www.kaggle.com/gti-upm/leapgestrecog
+Description: Contains 20000+ grayscale images (128x128 pixels) of 10 different hand gestures collected from 10 users.
+---
+
+## 📁 Files
+
+- `prodigy_ml_task4.ipynb` – Main Jupyter Notebook containing the complete model pipeline, including data loading, CNN model building, training, evaluation, and visualization.
+- `README.md` – Project documentation and usage guide.
+
+---
+
+## 🧰 Libraries Used
+
+- `numpy` – for numerical operations  
+- `pandas` – for data handling  
+- `matplotlib`, `seaborn` – for plotting graphs and results  
+- `tensorflow` / `keras` – for building and training the CNN  
+- `scikit-learn` – for model evaluation metrics and data splitting  
+- `OpenCV` (optional) – for video or image processing if extended to real-time
+
+To install all required packages, run:
+
+```bash
+pip install -r requirements.txt
+```
+
 
 
 
