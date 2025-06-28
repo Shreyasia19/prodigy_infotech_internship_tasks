@@ -39,7 +39,7 @@ This project performs binary image classification to distinguish between images 
 ## 📁 Files
 
 - `prodigy_ml_task3.ipynb`: Contains the complete code for preprocessing the dataset, training the SVM model, and evaluating its performance.
-
+-`task_3_model_predictions.docx` : contains teh output of dog and cat model predictions
 ---
 
 ## 🧰 Libraries Used
